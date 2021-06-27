@@ -1,4 +1,4 @@
-# miniaturezed complex species
+# miniaturized complex species
 This is a tutorial of Phylogenomics, populacional and Lansdscape analysis of _Brachycephalus__UCEs used in on **** complex species
 
 ## SNP-calling-on UCEs
